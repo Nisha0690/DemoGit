@@ -9,4 +9,5 @@
 <item elementID="=GitCommandLearn/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1625477212000_2" label="Window Working Set" name="Aggregate for window 1625477211999"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1625482022944_3" label="Window Working Set" name="Aggregate for window 1625482022944"/>
 </workingSetManager>
